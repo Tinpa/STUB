@@ -1,7 +1,6 @@
 ## STUB
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br>
 本代码使用MIT（麻省理工X条款）发布<br>
-注：代码中的链接所指向的所有地址都不包含在内。<br>
 
 
 STUB 是一个去中心化的讽刺韭菜区块加密货币<br>
