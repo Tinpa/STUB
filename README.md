@@ -10,6 +10,9 @@ STUB 是一个去中心化的讽刺韭菜区块加密货币<br>
 [![Solidity](https://img.shields.io/badge/language-Solidity-AA6746.svg)](https://github.com/ethereum/solidity)<br>
 <br>
 
+
+![STUB](https://raw.githubusercontent.com/Tinpa/STUB/main/STUB.png)
+
 ©2021 STUB. ALL RIGHTS RESERVED<br>
 ©Tinpa<br>
 ****
