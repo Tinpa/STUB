@@ -7,7 +7,8 @@ STUB 是一个去中心化的讽刺韭菜区块加密货币<br>
 仅作为经济作业使用<br>
 毫无实际价值与作用。<br>
 环境: Solidity 0.5.16<br>
-[![Solidity](https://img.shields.io/badge/language-Solidity-AA6746.svg)](https://github.com/ethereum/solidity)<br>
+[![Solidity](https://img.shields.io/badge/language-Solidity-AA6746.svg)](https://github.com/ethereum/solidity)
+[![RTF](https://img.shields.io/badge/language-RTF-ccc.svg)](http://download.microsoft.com/download/5/d/d/5dd33fdf-91f5-496d-9884-0a0b0ee698bb/%5BMS-OXRTFEX%5D.pdf)<br>
 <br>
 
 
