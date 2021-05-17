@@ -17,6 +17,15 @@ STUB 是一个去中心化的讽刺韭菜区块加密货币<br>
 ©2021 STUB. ALL RIGHTS RESERVED<br>
 ©Tinpa<br>
 ****
+## 如何使用？
+1. 注册一个 [ETH钱包](https://ethereum.org/wallets/)<br>
+2. 仔细阅读 [STUBstartKit](https://github.com/Tinpa/STUB/blob/main/STUBstartKit.png)<br>
+
+* 需要一些STUB？<br>
+* * 请前往我们的[网站](https://akatinpa.wordpress.com/stub)
+
+
+****
 
 免责声明：
 
