@@ -26,7 +26,7 @@ contract CodeToken is ERC20, ERC20Detailed {
 
 
     // 构造函数，设置代币名称、简称、精度；将发布合约的账号设置为治理账号
-    constructor () public ERC20Detailed("STUBCoin", "STUB", 18) {
+    constructor () public ERC20Detailed("/*全称*/", "/*代号*/", /*精度（小数点后__位）*/) {
         governance = tx.origin;
     }
 
