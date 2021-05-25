@@ -14,8 +14,8 @@ STUB 是一个去中心化的讽刺韭菜区块加密货币<br>
 
 ![STUB](https://raw.githubusercontent.com/Tinpa/STUB/main/STUB.png)<br>
 合约地址: `0xabc`<br>
-<br>
-<br>
+STUB 官网: <br>
+Token: <br>
 ©2021 STUB. ALL RIGHTS RESERVED<br>
 ©Tinpa<br>
 ****
