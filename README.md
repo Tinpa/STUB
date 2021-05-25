@@ -14,7 +14,7 @@ STUB 是一个去中心化的讽刺韭菜区块加密货币<br>
 
 ![STUB](https://raw.githubusercontent.com/Tinpa/STUB/main/STUB.png)<br>
 合约地址: `0x7995222dc1265354085bef420fd55333d3828c4e`<br>
-STUB 官网: <br>
+STUB 官网: https://akatinpa.wordpress.com/stub/<br>
 Token: https://rinkeby.etherscan.io/token/0x7995222dc1265354085bef420fd55333d3828c4e<br>
 ©2021 STUB. ALL RIGHTS RESERVED<br>
 ©Tinpa<br>
@@ -24,9 +24,9 @@ Token: https://rinkeby.etherscan.io/token/0x7995222dc1265354085bef420fd55333d382
 2. 仔细阅读 [STUBstartKit](https://github.com/Tinpa/STUB/blob/main/STUBstartKit.png)<br>
 
 * 需要一些STUB？<br>
-* * 请前往我们的[网站](https://akatinpa.wordpress.com/stub)
-
-
+* * 请前往我们的[网站](https://akatinpa.wordpress.com/stub)<br>
+<br>
+我们的孪生货币：[SBCN](https://rinkeby.etherscan.io/token/0x9fc64fbfade38c46579043a0964ce8cb96c4f694)
 ****
 
 免责声明：
