@@ -26,7 +26,8 @@ Token: https://rinkeby.etherscan.io/token/0x7995222dc1265354085bef420fd55333d382
 * 需要一些STUB？<br>
 * * 请前往我们的[网站](https://akatinpa.wordpress.com/stub)<br>
 <br>
-我们的孪生货币：[SBCN](https://rinkeby.etherscan.io/token/0x9fc64fbfade38c46579043a0964ce8cb96c4f694)
+我们的孪生货币,SBCN: https://rinkeby.etherscan.io/token/0x9fc64fbfade38c46579043a0964ce8cb96c4f694<br>
+
 ****
 
 免责声明：
