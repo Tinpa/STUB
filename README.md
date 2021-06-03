@@ -17,6 +17,7 @@ STUB 是一个去中心化的讽刺韭菜区块加密货币<br>
 STUB 官网: https://akatinpa.wordpress.com/stub/<br>
 Token: https://rinkeby.etherscan.io/token/0x7995222dc1265354085bef420fd55333d3828c4e<br>
 合约: <br>
+地址: <br>
 发行总量: 500,000,000 STUB<br>
 <br>
 我们的孪生货币:[SBCN](https://rinkeby.etherscan.io/token/0x9fc64fbfade38c46579043a0964ce8cb96c4f694) <br>
